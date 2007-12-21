@@ -13,6 +13,7 @@ URL:		http://tinyca.sm-zone.net/
 Group:		System/Servers
 License:	GPL
 Summary:	Small Certification Authority (CA) manager 
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buidroot
 Requires:	zip
 Obsoletes:    	TinyCA
 Provides:	TinyCA
