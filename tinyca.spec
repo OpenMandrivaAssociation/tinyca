@@ -1,7 +1,7 @@
 %define	name		tinyca 
 %define	realname	%{name}2
 %define version		0.7.5
-%define release		%mkrel 4
+%define release		%mkrel 5
 
 %define localedir	%{_datadir}/locale
 
