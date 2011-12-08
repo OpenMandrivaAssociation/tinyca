@@ -26,7 +26,7 @@ openssl.
 
 %prep
 %setup -q -n %{realname}-%{version}
-cd $RPM_BUILD_DIR/%{realname}-%{version}
+cd %{_builddir}/%{realname}-%{version}
 %{__ln_s} %{realname} %{name}
 
 # Configure pristine source
