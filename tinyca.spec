@@ -9,7 +9,7 @@ Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 Source0:	%{realname}-%{version}.tar.bz2
-URL:		http://tinyca.sm-zone.net/
+URL:		https://tinyca.sm-zone.net/
 Group:		System/Servers
 License:	GPL
 Summary:	Small Certification Authority (CA) manager 
